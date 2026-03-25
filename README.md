@@ -41,6 +41,4 @@ The intent is simple: validate the tooling setup end-to-end (install + sign-in +
    - While testing changes quickly, it’s easy to forget whether the correct file was saved.
    - Fix: I re-checked that the repo-root `README.md` was updated before committing and pushing.
 
-## Notes
 
-If anything in your setup differs, keep the structure the same—reviewers mainly want to see that the tools installed, you signed in, and the GitHub publish workflow worked reliably.
